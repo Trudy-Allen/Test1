@@ -1,0 +1,16 @@
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\myFirstProject.exe
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\myFirstProject.deps.json
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\myFirstProject.runtimeconfig.json
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\myFirstProject.runtimeconfig.dev.json
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\myFirstProject.dll
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\ref\myFirstProject.dll
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\bin\Debug\net5.0\myFirstProject.pdb
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.csproj.AssemblyReference.cache
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.AssemblyInfoInputs.cache
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.AssemblyInfo.cs
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.dll
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\ref\myFirstProject.dll
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.pdb
+C:\Users\trudy\Documents\SCHOOL\Development\C# Projects\myFirstSolution\myFirstProject\obj\Debug\net5.0\myFirstProject.genruntimeconfig.cache
