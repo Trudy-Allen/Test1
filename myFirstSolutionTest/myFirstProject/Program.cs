@@ -6,7 +6,7 @@ namespace myFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! testing again");
+            Console.WriteLine("Hello World! testing again.  pushing to git");
         }
     }
 }

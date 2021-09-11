@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trudy\\Documents\\SCHOOL\\Development\\C# Projects\\myFirstSolution\\myFirstProject\\myFirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\trudy\\Documents\\SCHOOL\\Development\\Repositories\\Test1a\\myFirstSolutionTest\\myFirstProject\\myFirstProject.csproj",
       "projectName": "myFirstProject",
-      "projectPath": "C:\\Users\\trudy\\Documents\\SCHOOL\\Development\\C# Projects\\myFirstSolution\\myFirstProject\\myFirstProject.csproj",
+      "projectPath": "C:\\Users\\trudy\\Documents\\SCHOOL\\Development\\Repositories\\Test1a\\myFirstSolutionTest\\myFirstProject\\myFirstProject.csproj",
       "packagesPath": "C:\\Users\\trudy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trudy\\Documents\\SCHOOL\\Development\\C# Projects\\myFirstSolution\\myFirstProject\\obj\\",
+      "outputPath": "C:\\Users\\trudy\\Documents\\SCHOOL\\Development\\Repositories\\Test1a\\myFirstSolutionTest\\myFirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
